@@ -1,0 +1,22 @@
+4) How memory is managed in Python? 
+Ans:
+--> Memory management in Python involves a private heap containing all Python objects 
+    and datastructures. The management of this private heap is ensured internally by 
+    the Python memory manager.
+
+5) What is the purpose continue statement in python?  
+Ans:
+--> The continue statement in Python returns the control to the beginning of the while
+    loop. The continue statement rejects all the remaining statements in the current iteration
+    of the loop and moves the control back to the top of the loop.
+
+14) What are negative indexes and why are they used?
+ Ans:
+-->  Negative Indexing is used to in Python to begin slicing from the end of the string 
+     i.e. the last. Slicing in Python gets a sub-string from a string. The slicing range is 
+     set as parameters.
+
+
+
+
+
